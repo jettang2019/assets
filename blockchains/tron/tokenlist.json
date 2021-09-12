@@ -1,0 +1,172 @@
+{
+    "name": "Trust Wallet: Tron",
+    "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+    "timestamp": "2021-09-12T12:17:25.447Z",
+    "tokens": [
+        {
+            "asset": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
+            "type": "TRC20",
+            "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
+            "name": "Wrapped TRX",
+            "symbol": "WTRX",
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png",
+            "pairs": []
+        },
+        {
+            "asset": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
+            "type": "TRC20",
+            "address": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
+            "name": "Wrapped BTT",
+            "symbol": "BTT",
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png",
+            "pairs": []
+        },
+        {
+            "asset": "TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
+            "type": "TRC20",
+            "address": "TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "decimals": 8,
+            "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png",
+            "pairs": []
+        },
+        {
+            "asset": "TXpw8XeWYeTUd4quDskoUqeQPowRh4jY65",
+            "type": "TRC20",
+            "address": "TXpw8XeWYeTUd4quDskoUqeQPowRh4jY65",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://coin.top/production/logo/TXpw8XeWYeTUd4quDskoUqeQPowRh4jY65.png",
+            "pairs": []
+        },
+        {
+            "asset": "THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
+            "type": "TRC20",
+            "address": "THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png",
+            "pairs": []
+        },
+        {
+            "asset": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+            "type": "TRC20",
+            "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz81.png",
+            "pairs": []
+        },
+        {
+            "asset": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "type": "TRC20",
+            "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/logo/usdtlogo.png",
+            "pairs": []
+        },
+        {
+            "asset": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+            "type": "TRC20",
+            "address": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+            "name": "JUST Stablecoin",
+            "symbol": "USDJ",
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/logo/usdj.png",
+            "pairs": []
+        },
+        {
+            "asset": "TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
+            "type": "TRC20",
+            "address": "TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
+            "name": "TrueUSD",
+            "symbol": "TUSD",
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/logo/TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4.png",
+            "pairs": []
+        },
+        {
+            "asset": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+            "type": "TRC20",
+            "address": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+            "name": "JUST",
+            "symbol": "JST",
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/logo/just_icon.png",
+            "pairs": []
+        },
+        {
+            "asset": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S",
+            "type": "TRC20",
+            "address": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S",
+            "name": "SUN",
+            "symbol": "SUN",
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/logo/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S.png",
+            "pairs": []
+        },
+        {
+            "asset": "TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+            "type": "TRC20",
+            "address": "TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+            "name": "SUNOLD",
+            "symbol": "SUNOLD",
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/upload/logo/TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9.png",
+            "pairs": []
+        },
+        {
+            "asset": "TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
+            "type": "TRC20",
+            "address": "TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
+            "name": "APENFT",
+            "symbol": "NFT",
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq.png",
+            "pairs": []
+        },
+        {
+            "asset": "TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h",
+            "type": "TRC20",
+            "address": "TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h",
+            "name": "HuobiToken",
+            "symbol": "HT",
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png",
+            "pairs": []
+        },
+        {
+            "asset": "THbVQp8kMjStKNnf2iCY6NEzThKMK5aBHg",
+            "type": "TRC20",
+            "address": "THbVQp8kMjStKNnf2iCY6NEzThKMK5aBHg",
+            "name": "Dogecoin",
+            "symbol": "DOGE",
+            "decimals": 8,
+            "logoURI": "https://coin.top/production/upload/logo/THbVQp8kMjStKNnf2iCY6NEzThKMK5aBHg.png",
+            "pairs": []
+        },
+        {
+            "asset": "TRiyhtTDXDLAW86mrosBLF5NmYtpxLtFo5",
+            "type": "TRC20",
+            "address": "TRiyhtTDXDLAW86mrosBLF5NmYtpxLtFo5",
+            "name": "INR Token",
+            "symbol": "INRT",
+            "decimals": 2,
+            "logoURI": "https://coin.top/production/upload/logo/TRiyhtTDXDLAW86mrosBLF5NmYtpxLtFo5.jpeg",
+            "pairs": []
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
