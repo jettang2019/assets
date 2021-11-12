@@ -187,17 +187,6 @@
             ]
         },
         {
-            "chainId": 56,
-            "asset": "c20000714_t0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
-            "type": "BEP20",
-            "address": "0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
-            "name": "Jupiter",
-            "symbol": "bwJUP",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7/logo.png",
-            "pairs": []
-        },
-        {
             "asset": "c20000714_t0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
             "type": "BEP20",
             "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
@@ -236,16 +225,6 @@
             "symbol": "XTZ",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x16939ef78684453bfDFb47825F8a5F714f12623a/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454",
-            "type": "BEP20",
-            "address": "0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454",
-            "name": "bDollar",
-            "symbol": "BDO",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454/logo.png",
             "pairs": []
         },
         {
@@ -301,36 +280,6 @@
             "pairs": []
         },
         {
-            "asset": "c20000714_t0x233d91A0713155003fc4DcE0AFa871b508B3B715",
-            "type": "BEP20",
-            "address": "0x233d91A0713155003fc4DcE0AFa871b508B3B715",
-            "name": "Ditto",
-            "symbol": "DITTO",
-            "decimals": 9,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x233d91A0713155003fc4DcE0AFa871b508B3B715/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0x37Ac4D6140e54304D77437A5c11924f61a2D976f",
-            "type": "BEP20",
-            "address": "0x37Ac4D6140e54304D77437A5c11924f61a2D976f",
-            "name": "SparkPoint Fuel",
-            "symbol": "SFUEL",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x37Ac4D6140e54304D77437A5c11924f61a2D976f/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0x3aabCf53A1930A42E18D938C019E83Ebee50a849",
-            "type": "BEP20",
-            "address": "0x3aabCf53A1930A42E18D938C019E83Ebee50a849",
-            "name": "SPONGE",
-            "symbol": "SPG",
-            "decimals": 9,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x3aabCf53A1930A42E18D938C019E83Ebee50a849/logo.png",
-            "pairs": []
-        },
-        {
             "asset": "c20000714_t0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
             "type": "BEP20",
             "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
@@ -338,16 +287,6 @@
             "symbol": "ADA",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0x4197C6EF3879a08cD51e5560da5064B773aa1d29",
-            "type": "BEP20",
-            "address": "0x4197C6EF3879a08cD51e5560da5064B773aa1d29",
-            "name": "ACryptoS",
-            "symbol": "ACS",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x4197C6EF3879a08cD51e5560da5064B773aa1d29/logo.png",
             "pairs": []
         },
         {
@@ -361,26 +300,6 @@
             "pairs": []
         },
         {
-            "asset": "c20000714_t0x44754455564474A89358B2C2265883DF993b12F0",
-            "type": "BEP20",
-            "address": "0x44754455564474A89358B2C2265883DF993b12F0",
-            "name": "ZeroSwapToken",
-            "symbol": "ZEE",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x44754455564474A89358B2C2265883DF993b12F0/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
-            "type": "BEP20",
-            "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
-            "name": "Swipe",
-            "symbol": "SXP",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A/logo.png",
-            "pairs": []
-        },
-        {
             "chainId": 56,
             "asset": "c20000714_t0x4B0F1812e5Df2A09796481Ff14017e6005508003",
             "type": "BEP20",
@@ -389,17 +308,6 @@
             "symbol": "TWT",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x4B0F1812e5Df2A09796481Ff14017e6005508003/logo.png",
-            "pairs": []
-        },
-        {
-            "chainId": 56,
-            "asset": "c20000714_t0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
-            "type": "BEP20",
-            "address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
-            "name": "VAI Stablecoin",
-            "symbol": "VAI",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7/logo.png",
             "pairs": []
         },
         {
@@ -424,47 +332,6 @@
             "pairs": []
         },
         {
-            "asset": "c20000714_t0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587",
-            "type": "BEP20",
-            "address": "0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587",
-            "name": "BSCX",
-            "symbol": "BSCX",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587/logo.png",
-            "pairs": []
-        },
-        {
-            "chainId": 56,
-            "asset": "c20000714_t0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F",
-            "type": "BEP20",
-            "address": "0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F",
-            "name": "BLink Token",
-            "symbol": "BLINK",
-            "decimals": 6,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2",
-            "type": "BEP20",
-            "address": "0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2",
-            "name": "DODO",
-            "symbol": "DODO",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0x6c5FE6e99D2484db7E4BF34F365ABA42d0E4dC20",
-            "type": "BEP20",
-            "address": "0x6c5FE6e99D2484db7E4BF34F365ABA42d0E4dC20",
-            "name": "Absorber",
-            "symbol": "ABS",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x6c5FE6e99D2484db7E4BF34F365ABA42d0E4dC20/logo.png",
-            "pairs": []
-        },
-        {
             "asset": "c20000714_t0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
             "type": "BEP20",
             "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
@@ -486,76 +353,6 @@
             "pairs": []
         },
         {
-            "asset": "c20000714_t0x728C5baC3C3e370E372Fc4671f9ef6916b814d8B",
-            "type": "BEP20",
-            "address": "0x728C5baC3C3e370E372Fc4671f9ef6916b814d8B",
-            "name": "UNFI",
-            "symbol": "UNFI",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x728C5baC3C3e370E372Fc4671f9ef6916b814d8B/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0x72fAa679E1008Ad8382959FF48E392042A8b06f7",
-            "type": "BEP20",
-            "address": "0x72fAa679E1008Ad8382959FF48E392042A8b06f7",
-            "name": "AllianceBlock Token",
-            "symbol": "bALBT",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x72fAa679E1008Ad8382959FF48E392042A8b06f7/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0x78650B139471520656b9E7aA7A5e9276814a38e9",
-            "type": "BEP20",
-            "address": "0x78650B139471520656b9E7aA7A5e9276814a38e9",
-            "name": "StandardBTCHashrateToken",
-            "symbol": "BTCST",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x78650B139471520656b9E7aA7A5e9276814a38e9/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0x790Be81C3cA0e53974bE2688cDb954732C9862e1",
-            "type": "BEP20",
-            "address": "0x790Be81C3cA0e53974bE2688cDb954732C9862e1",
-            "name": "CafeSwap Token",
-            "symbol": "BREW",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x790Be81C3cA0e53974bE2688cDb954732C9862e1/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2",
-            "type": "BEP20",
-            "address": "0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2",
-            "name": "Kebab Token",
-            "symbol": "KEBAB",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
-            "type": "BEP20",
-            "address": "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
-            "name": "Binance-Peg YFII.finance",
-            "symbol": "YFII",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0x81859801b01764D4f0Fa5E64729f5a6C3b91435b",
-            "type": "BEP20",
-            "address": "0x81859801b01764D4f0Fa5E64729f5a6C3b91435b",
-            "name": "bearn.fi",
-            "symbol": "BFI",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x81859801b01764D4f0Fa5E64729f5a6C3b91435b/logo.png",
-            "pairs": []
-        },
-        {
             "asset": "c20000714_t0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
             "type": "BEP20",
             "address": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
@@ -573,36 +370,6 @@
             "symbol": "BCH",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
-            "type": "BEP20",
-            "address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
-            "name": "Frontier Token",
-            "symbol": "FRONT",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
-            "type": "BEP20",
-            "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
-            "name": "Helmet.insure Governance Token",
-            "symbol": "Helmet",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0x97a30C692eCe9C317235d48287d23d358170FC40",
-            "type": "BEP20",
-            "address": "0x97a30C692eCe9C317235d48287d23d358170FC40",
-            "name": "CryptEx Token",
-            "symbol": "CRX",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x97a30C692eCe9C317235d48287d23d358170FC40/logo.png",
             "pairs": []
         },
         {
@@ -690,26 +457,6 @@
             "pairs": []
         },
         {
-            "asset": "c20000714_t0xC7d8D35EBA58a0935ff2D5a33Df105DD9f071731",
-            "type": "BEP20",
-            "address": "0xC7d8D35EBA58a0935ff2D5a33Df105DD9f071731",
-            "name": "Hedget",
-            "symbol": "HGET",
-            "decimals": 6,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xC7d8D35EBA58a0935ff2D5a33Df105DD9f071731/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0xC7FB8c5eFE8564205eE5CbA4dE8eeA8a086a4bd2",
-            "type": "BEP20",
-            "address": "0xC7FB8c5eFE8564205eE5CbA4dE8eeA8a086a4bd2",
-            "name": "PocketRocket",
-            "symbol": "POCROC",
-            "decimals": 9,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xC7FB8c5eFE8564205eE5CbA4dE8eeA8a086a4bd2/logo.png",
-            "pairs": []
-        },
-        {
             "asset": "c20000714_t0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
             "type": "BEP20",
             "address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
@@ -728,16 +475,6 @@
             "symbol": "BIFI",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xCa3F508B8e4Dd382eE878A314789373D80A5190A/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0xcc2E12a9b5b75360c6FBf23B584c275D52cDdb0E",
-            "type": "BEP20",
-            "address": "0xcc2E12a9b5b75360c6FBf23B584c275D52cDdb0E",
-            "name": "Crow Token",
-            "symbol": "CROW",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xcc2E12a9b5b75360c6FBf23B584c275D52cDdb0E/logo.png",
             "pairs": []
         },
         {
@@ -762,16 +499,6 @@
             "pairs": []
         },
         {
-            "asset": "c20000714_t0xE40255C5d7fa7ceEc5120408C78C787CECB4cfdb",
-            "type": "BEP20",
-            "address": "0xE40255C5d7fa7ceEc5120408C78C787CECB4cfdb",
-            "name": "SWGb",
-            "symbol": "SWGb",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xE40255C5d7fa7ceEc5120408C78C787CECB4cfdb/logo.png",
-            "pairs": []
-        },
-        {
             "chainId": 56,
             "asset": "c20000714_t0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
             "type": "BEP20",
@@ -783,37 +510,6 @@
             "pairs": []
         },
         {
-            "asset": "c20000714_t0xeAF7D8395CCE52DAef138d39a1CEfA51b97C15aE",
-            "type": "BEP20",
-            "address": "0xeAF7D8395CCE52DAef138d39a1CEfA51b97C15aE",
-            "name": "TeraBlock Token",
-            "symbol": "TBC",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xeAF7D8395CCE52DAef138d39a1CEfA51b97C15aE/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e",
-            "type": "BEP20",
-            "address": "0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e",
-            "name": "Reef.finance",
-            "symbol": "REEF",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e/logo.png",
-            "pairs": []
-        },
-        {
-            "chainId": 56,
-            "asset": "c20000714_t0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4",
-            "type": "BEP20",
-            "address": "0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4",
-            "name": "Hard Protocol",
-            "symbol": "HARD",
-            "decimals": 6,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4/logo.png",
-            "pairs": []
-        },
-        {
             "asset": "c20000714_t0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
             "type": "BEP20",
             "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
@@ -821,16 +517,6 @@
             "symbol": "LINK",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c20000714_t0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
-            "type": "BEP20",
-            "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
-            "name": "Goose Golden Egg",
-            "symbol": "EGG",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6/logo.png",
             "pairs": []
         }
     ],
