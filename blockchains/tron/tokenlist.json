@@ -154,13 +154,23 @@
             "pairs": []
         },
         {
-            "asset": "TRiyhtTDXDLAW86mrosBLF5NmYtpxLtFo5",
+            "asset": "TLvfZkXacrDKTiroCuY459ta9FxyVEPtYu",
             "type": "TRC20",
-            "address": "TRiyhtTDXDLAW86mrosBLF5NmYtpxLtFo5",
+            "address": "TLvfZkXacrDKTiroCuY459ta9FxyVEPtYu",
             "name": "INR Token",
             "symbol": "INRT",
             "decimals": 2,
-            "logoURI": "https://coin.top/production/upload/logo/TRiyhtTDXDLAW86mrosBLF5NmYtpxLtFo5.jpeg",
+            "logoURI": "https://coin.top/production/upload/logo/TLvfZkXacrDKTiroCuY459ta9FxyVEPtYu.png",
+            "pairs": []
+        },
+        {
+            "asset": "TJTHiv8cViqQRgfaGoaRp4MoKPn8Xc4UmC",
+            "type": "TRC20",
+            "address": "TJTHiv8cViqQRgfaGoaRp4MoKPn8Xc4UmC",
+            "name": "Royal Dollar Token",
+            "symbol": "RDT",
+            "decimals": 4,
+            "logoURI": "https://coin.top/production/upload/logo/TJTHiv8cViqQRgfaGoaRp4MoKPn8Xc4UmC.png",
             "pairs": []
         }
     ],
