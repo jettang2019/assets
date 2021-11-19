@@ -518,6 +518,16 @@
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD/logo.png",
             "pairs": []
+        },
+        {
+            "asset": "c20000714_t0xd9E2Bd1253a23084Bcfd5eeE8c18A7D289021C90",
+            "type": "BEP20",
+            "address": "0xd9E2Bd1253a23084Bcfd5eeE8c18A7D289021C90",
+            "name": "INR Token",
+            "symbol": "INRT",
+            "decimals": 2,
+            "logoURI": "https://www.inrt.finance/logo_100*100.png",
+            "pairs": []
         }
     ],
     "version": {
