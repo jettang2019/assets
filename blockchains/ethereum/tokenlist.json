@@ -655,6 +655,28 @@
             "decimals": 6,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
             "pairs": []
+        },
+        {
+            "chainId": 1,
+            "asset": "c60_t0xc2dBae939574B38D675353570495C8DB0e61A36E",
+            "type": "ERC20",
+            "address": "0xc2dBae939574B38D675353570495C8DB0e61A36E",
+            "name": "INR Token",
+            "symbol": "INRT",
+            "decimals": 2,
+            "logoURI": "https://www.inrt.finance/logo_100*100.png",
+            "pairs": []
+        },
+        {
+            "chainId": 1,
+            "asset": "c60_t0xe9f6eC9C5ac0a284d83ed71ae39abE261145EaAd",
+            "type": "ERC20",
+            "address": "0xe9f6eC9C5ac0a284d83ed71ae39abE261145EaAd",
+            "name": "Royal Dollar Token",
+            "symbol": "RDT",
+            "decimals": 4,
+            "logoURI": "https://www.inrt.finance/rdt_100*100.png",
+            "pairs": []
         }
     ],
     "version": {
