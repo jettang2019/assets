@@ -528,6 +528,16 @@
             "decimals": 2,
             "logoURI": "https://www.inrt.finance/logo_100*100.png",
             "pairs": []
+        },
+        {
+            "asset": "c20000714_t0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+            "type": "BEP20",
+            "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+            "name": "Binance-Peg Dogecoin Token",
+            "symbol": "DOGE",
+            "decimals": 8,
+            "logoURI": "https://bscscan.com/token/images/dogecoin_32.png",
+            "pairs": []
         }
     ],
     "version": {
