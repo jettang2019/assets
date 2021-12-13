@@ -530,6 +530,16 @@
             "pairs": []
         },
         {
+            "asset": "c60_t0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+            "type": "BEP20",
+            "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+            "pairs": []
+        },
+        {
             "asset": "c20000714_t0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
             "type": "BEP20",
             "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
